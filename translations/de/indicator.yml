@@ -46,7 +46,7 @@ unit: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
 # Description of a footnote that is applied to a particular data value (observation).
-note: note
+note: Methodischer Hinweis
 apply: Ok
 cancel: Abbrechen
 change_breakdowns: Auwahl ändern
