@@ -50,3 +50,5 @@ note: Methodischer Hinweis
 apply: Ok
 cancel: Abbrechen
 change_breakdowns: Auwahl ändern
+# Description of a footnote that is applied to a particular data value (observation).
+note: note
