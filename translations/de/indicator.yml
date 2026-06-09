@@ -29,6 +29,7 @@ legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfern
 loading: Laden
 loading_map: Karte wird geladen
 map: Karte
+map_legend: Legende
 national_metadata: Indikator Beschreibung
 national_metadata_blurb:
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
