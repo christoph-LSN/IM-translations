@@ -33,6 +33,7 @@ national_metadata: Indikator Beschreibung
 national_metadata_blurb:
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
+print_table: Drucken
 select_all: Alle auswählen
 series: Reihe
 series_help: Wählen Sie eine oder mehrere Kategorien aus, um die Tabelle/Grafik anzupassen.
