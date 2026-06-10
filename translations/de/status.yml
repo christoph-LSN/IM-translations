@@ -24,7 +24,7 @@ disaggregation_status_notstarted: 'Nicht disaggregiert'
 disaggregation_status_notapplicable: 'Außerhalb des Bereichs'
 disaggregation_status_by_field: 'Disaggregation nach %Feld'
 not_specified: Nicht angegeben
-reported: Gemeldet
+reported: Daten verfügbar
 description: Der Berichtsstatus gibt einen Überblick darüber, wie viele Daten zu den
   Sustainable Development Goals (SDGs) %country.name meldet.
 progress_status: Status des Fortschritts
