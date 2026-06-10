@@ -84,6 +84,10 @@ announce_data_not_available: Chart and table shows no data.
 announce_data_added: Chart and table updated to include data.
 # A message that is announced when the data is removed from the chart/table
 announce_data_removed: Chart and table updated to exclude data.
+# A message that is announced when the user switches to a different unit
+announce_unit_switched: Chart and table updated to show a different unit.
+# A message that is announced when the user switches to a different series
+announce_series_switched: Chart and table updated to show a different series.
 # A message that points out an alternative display for visual data
 data_tabular_alternative: For tabular data alternative see Table tab.
 # Instructions for navigating data with a keyboard
@@ -92,7 +96,7 @@ data_keyboard_navigation: Press enter to browse data points with left and right 
 # Description of the "plot legend" which displays beneath charts
 plot_legend_description: "Plot legend: list of lines included in chart"
 # Common annotation displayed on graphs for the 2030 target.
-annotation_2030_target: 2030 indicator target
+annotation_2030_target: 2030 target
 annotation_series_break: Series break
 # Label describing an annotation on a chart/graph.
 chart_annotation: Chart annotation
@@ -153,3 +157,8 @@ proxy: Proxy
 proxy_description: This indicator contains some alternative data to those specified
   by the United Nations (UN). This indicator is the most suitable match currently
   available.
+# Description of a footnote that is applied to a particular data value (observation).
+note: note
+# Yes/No for binary-style charts and tables
+affirmative: 'Yes'
+negative: 'No'
